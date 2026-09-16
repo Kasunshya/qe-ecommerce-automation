@@ -1,0 +1,24 @@
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
